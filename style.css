@@ -1,0 +1,27 @@
+.img {
+  width: 256px;
+  height: 200px;
+}
+
+/* .box::before {
+  content: "Creating Streamlined Safeguarding Processes with OneRen";
+  font-size: 14px;
+  background-color: #f5f7fa;
+  width: 220px !important;
+  height: 85px !important;
+  transform: translate(20px, 160px);
+  border-radius: 5px;
+  position: absolute;
+  text-align: center;
+  font-family: "intern", sans-serif;
+} */
+
+.place_input {
+  height: 40px;
+  border: none;
+  color: white;
+}
+
+.place_input::placeholder {
+  color: white;
+}
